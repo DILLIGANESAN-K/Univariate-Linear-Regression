@@ -49,7 +49,7 @@ plt.show()
 ```
 ## Output
 </br>
-![alt text](image.png)
+![alt text](image-1.png)
 </br>
 
 ## Result
