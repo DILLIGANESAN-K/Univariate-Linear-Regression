@@ -48,9 +48,6 @@ plt.plot(x,ypred, color='blue')
 plt.show()
 ```
 ## Output
-</br>
-![alt text](image-1.png)
-</br>
-
+![alt text](image-4.png)
 ## Result
 Thus the univariate Linear Regression was implemented to fit a straight line using least squares.
